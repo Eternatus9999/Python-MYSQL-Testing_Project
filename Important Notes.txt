@@ -1,1 +1,8 @@
-pip install mysql-connector-python
+For Database Connecting
+
+pip install mysql-connector-python 
+
+
+For Data Encrypting
+
+pip install pycryptodome
